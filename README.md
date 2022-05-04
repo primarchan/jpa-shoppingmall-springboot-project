@@ -1,2 +1,2 @@
-# jpa-shop-project
+# JPA-Shop-Project
 Inflearn
